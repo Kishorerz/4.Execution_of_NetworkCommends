@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
 # Name : kishor kumar B
 # Reg No : 21222324007
-# Date : 212223240072
+# Date :
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
