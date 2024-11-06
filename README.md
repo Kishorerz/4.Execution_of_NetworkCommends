@@ -1,4 +1,7 @@
 # 4.Execution_of_NetworkCommands
+# Name : kishor kumar B
+# Reg No : 21222324007
+# Date : 212223240072
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -28,30 +31,37 @@ This commands includes
 
 ## Output
 # ARP:
-![alt text](Output/arp.png)
+![1](https://github.com/user-attachments/assets/c9e28962-4fac-4e81-b095-7d0d7fdd8a88)
+
 
 # getmac:
-![alt text](Output/getmac.png)
+![2](https://github.com/user-attachments/assets/7b8f16ca-6fef-4f83-b213-89b3706f14a7)
+
 
 # hostname :
-![alt text](Output/hostname.png)
+![3](https://github.com/user-attachments/assets/3a97ea3b-7e83-4ef0-8390-7afd38e9f474)
+
 
 # ipconfig:
-![alt text](Output/ipconfig.png)
+![4](https://github.com/user-attachments/assets/e8613c1e-35e5-4832-8e13-ee51bb752a81)
 
 # netsat :
-![alt text](Output/netstat.png)
+![5](https://github.com/user-attachments/assets/bb717e18-0970-4414-a350-edd73521aa66)
 
 # nslookup:
-![alt text](Output/nslookup.png)
+![6](https://github.com/user-attachments/assets/17735044-319f-4b52-835d-547712b0d43d)
+
 
 # ping:
-![alt text](Output/ping.png)
+![7](https://github.com/user-attachments/assets/e8b18780-c1d6-4439-80d4-10861b43671c)
+
 
 # systeminfo:
-![alt text](Output/sysinfo.png)
+![8](https://github.com/user-attachments/assets/77f28466-1487-4d06-9f06-0d320441cd9e)
+
 
 # tracert:
-![alt text](Output/tracert.png)
+![9](https://github.com/user-attachments/assets/92e7009f-2a1b-4ead-8239-00a47c84c938)
+
 ## Result
 Thus Execution of Network commands Performed 
